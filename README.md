@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I'm a first-year student  VNUHCM - University of Information Technology in Computer Science
+- I'm a first-year student of VNUHCM - University of Information Technology in Computer Science
 
 ## 🌐 Socials:
 Gmail: hieutrught@gmail.com
