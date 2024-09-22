@@ -16,8 +16,4 @@ Gmail: hieutrught@gmail.com
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Qipu1220g&icon=0&color=0)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=qipu1220&label=Profile%20Views&color=1&icon=7&pretty=true)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=qipu1220&label=Profile%20Views&color=1&icon=7&pretty=true" />
-</a>
