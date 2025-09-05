@@ -3,6 +3,7 @@
 
 ## 🌐 Socials:
 Gmail: hieutrught@gmail.com
+
 LinkIn: [LinkedIn — Trung Dang Hieu](https://www.linkedin.com/in/trung-dang-hieu-9173a3315)
 
 # 💻 Tech Stack:
