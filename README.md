@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
 Gmail: hieutrught@gmail.com
-[LinkedIn — Trung Dang Hieu](https://www.linkedin.com/in/trung-dang-hieu-9173a3315)
+LinkIn: [LinkedIn — Trung Dang Hieu](https://www.linkedin.com/in/trung-dang-hieu-9173a3315)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
